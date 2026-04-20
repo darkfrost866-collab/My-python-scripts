@@ -1,9 +1,30 @@
+# Core HTTP & feeds
 requests
+feedparser
+
+# NLP
 spacy
 textblob
+nltk
+
+# Machine learning / TF-IDF / LDA / similarity
 scikit-learn
-jinja2
+
+# PDF & DOCX generation
+reportlab
 python-docx
+docxtpl
+
+# Gmail / Google API (OAuth-based, optional)
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
+
+# Browser automation (Indeed scraping)
+playwright
+
+# Templating
+jinja2
+
+# Utilities
+python-dotenv

@@ -1,0 +1,106 @@
+{
+  "personal": {
+    "name":       "Raouf Mayahi",
+    "title":      "Production Supervisor | Operations Leader",
+    "email":      "raoufmayahi@gmail.com",
+    "phone":      "(416) 897-7889",
+    "location":   "York, Ontario, Canada",
+    "linkedin":   "linkedin.com/in/raoufmayahi",
+    "website":    ""
+  },
+  "summary": "Results-driven Operations Leader with 14+ years of progressive experience in heavy manufacturing, custom fabrication, and high-precision assembly environments. Demonstrated expertise in Lean Six Sigma implementation, root cause analysis, and HSE leadership within unionized workforces. Proven ability to drive operational excellence while maintaining uncompromising safety standards. Certified TSSA (1G-6G) and CWB Welding Inspector with comprehensive knowledge of ISO 9001, IATF 16949, and AS9100 quality management systems.",
+  "experience": [
+    {
+      "company":   "Active Dynamics",
+      "title":     "Production Supervisor",
+      "start":     "2024-01",
+      "end":       "Present",
+      "location":  "Ontario, Canada",
+      "bullets": [
+        "Provide strategic leadership for 45+ unionized personnel across multi-shift manufacturing operations",
+        "Engineered 15% increase in shift effectiveness through Lean Six Sigma implementation",
+        "Achieved zero Lost Time Injuries over 24 months via rigorous HSE program management",
+        "Resolved 90% of labor disputes through collaborative engagement and proactive communication",
+        "Optimized material procurement processes, reducing waste by 12%"
+      ]
+    },
+    {
+      "company":   "Howden Canada",
+      "title":     "Lead Hand",
+      "start":     "2018-03",
+      "end":       "2022-12",
+      "location":  "Ontario, Canada",
+      "bullets": [
+        "Ensured 100% adherence to ISO quality management systems and regulatory requirements",
+        "Supported 12% facility capacity expansion through process optimization initiatives",
+        "Mentored junior staff in welding best practices and safety protocols",
+        "Conducted root cause analysis for production variances, implementing corrective actions"
+      ]
+    },
+    {
+      "company":   "BDI Canada",
+      "title":     "Welder / Fabricator",
+      "start":     "2012-05",
+      "end":       "2018-02",
+      "location":  "Ontario, Canada",
+      "bullets": [
+        "Performed precision welding and fabrication in accordance with TSSA and CWB standards",
+        "Interpreted complex blueprints and technical drawings for custom manufacturing projects",
+        "Maintained exemplary safety record in heavy industrial environment"
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Lean Six Sigma", "Root Cause Analysis", "5S / Kaizen",
+      "TSSA Certified Welding (1G-6G)", "CWB Level 2 Welding Inspector",
+      "Blueprint Reading", "CAD (basic)", "MRP / ERP Systems"
+    ],
+    "quality": [
+      "ISO 9001", "IATF 16949", "AS9100", "Process Auditing", "QMS"
+    ],
+    "safety": [
+      "HSE Leadership", "OHSA Compliance", "JHSC Certified",
+      "WHMIS", "Working at Heights", "Forklift Certified"
+    ],
+    "leadership": [
+      "Union Labor Relations", "Dispute Resolution",
+      "Team Leadership (45+ personnel)", "Production Planning",
+      "Budget Optimization", "KPI Management", "Multi-shift Operations"
+    ],
+    "software": [
+      "Microsoft Office Suite", "SAP (basic)", "Google Workspace"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Humber College",
+      "degree":      "Engineering Technology Diploma",
+      "year":        "2012"
+    }
+  ],
+  "certifications": [
+    "TSSA Certified Welder — 1G, 2G, 3G, 4G, 5G, 6G",
+    "CWB Level 2 Welding Inspector",
+    "Lean Six Sigma Green Belt",
+    "JHSC Certification",
+    "OHSA Training",
+    "WHMIS",
+    "Working at Heights",
+    "Forklift Certified"
+  ],
+  "target_roles": [
+    "Production Supervisor",
+    "Manufacturing Supervisor",
+    "Operations Supervisor",
+    "Welding Supervisor",
+    "Plant Supervisor",
+    "Manufacturing Manager"
+  ],
+  "target_industries": [
+    "Manufacturing", "Automotive", "Aerospace", "Welding", "Metal Fabrication"
+  ],
+  "target_locations": [
+    "Ontario, Canada"
+  ]
+}
